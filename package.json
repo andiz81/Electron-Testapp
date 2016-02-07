@@ -1,0 +1,16 @@
+{
+  "name": "create-multi-window-electron-app",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Kyle Robinson Young <kyle@dontkry.com> (http://dontkry.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^0.28.3",
+    "electron-accelerator": "^0.0.5",
+    "electron-packager": "^5.2.1"
+  }
+}
